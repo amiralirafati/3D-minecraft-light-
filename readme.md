@@ -23,7 +23,3 @@ This project is designed to showcase a modern web application with interactive U
    ```
 2. Open `index.html` in your browser / فایل `index.html` را در مرورگر باز کنید.
 
-## 📬 Contact / تماس
-- ✉ Email / ایمیل: yourname@example.com
-- 🌐 Website / وبسایت: [www.example.com](https://www.example.com)
-
